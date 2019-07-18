@@ -35,4 +35,3 @@ $ python runner.py by_dataset  --vid-path=./data/freeman1/
 
 - (Korean, 한국어) Review : http://openresearch.ai/t/adnet-action-decision-networks-for-visual-tracking-with-deep-reinforcement-learning/123
 - Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning (CVPR201) : http://openaccess.thecvf.com/content_cvpr_2017/papers/Yun_Action-Decision_Networks_for_CVPR_2017_paper.pdf
-- ADNet Implmentation in Matlab : https://github.com/hellbell/ADNet/
