@@ -3,7 +3,7 @@ This application is built based on 'Action-Decision Networks for Visual Tracking
 
 | GIF      | Description                    |
 |:---------|:-------------------------------|
-| ![Plaque](/data/freeman1/Plaque.gif) | OTB100 Dataset Freeman1. |
+| ![Plaque](/data/Plaque.gif) | OTB100 Dataset Freeman1. |
 * Green : Ground Truth, Blue : Tracking Result
  
 
