@@ -1,31 +1,18 @@
 # tf-adnet
-Tensorflow Implementation of 'Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning(CVPR 2017)'
+This application is built based on 'Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning(CVPR 2017)'
 
 | GIF      | Description                    |
 |:---------|:-------------------------------|
-| ![freeman1_180202](/data/freeman1/freeman1_180202.gif) | OTB100 Dataset Freeman1. |
-* Green : Ground Truth, Blue : ADNet-Fast Tracking Result
-
+| ![Plaque](/data/freeman1/Plaque.gif) | OTB100 Dataset Freeman1. |
+* Green : Ground Truth, Blue : Tracking Result
+ 
 
 ## Implementations
 
-- [x] Network Architecture
-
-- [ ] Training Code
-
-  - [ ] Reproduce Paper Result
-
-- [x] Inference Code
-
-  - [x] Converting Original Weights to Tensorflow
-  
-  - [x] Online Learning(finetuning)
-  
-  - [ ] Faster Inference
-
+Building.........
 ## Run
 
-### OTB100 Dataset
+### Dataset
 
 ```
 $ python runner.py by_dataset  --vid-path=./data/freeman1/
@@ -33,5 +20,7 @@ $ python runner.py by_dataset  --vid-path=./data/freeman1/
 
 ## References
 
-- (Korean, 한국어) Review : http://openresearch.ai/t/adnet-action-decision-networks-for-visual-tracking-with-deep-reinforcement-learning/123
-- Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning (CVPR201) : http://openaccess.thecvf.com/content_cvpr_2017/papers/Yun_Action-Decision_Networks_for_CVPR_2017_paper.pdf
+A Deep Reinforcement Learning Framework for Frame-by-frame Plaque Tracking on Intravascular Optical Coherence Tomography Image
+: https://www.researchgate.net/publication/335863043_A_Deep_Reinforcement_Learning_Framework_for_Frame-by-frame_Plaque_Tracking_on_Intravascular_Optical_Coherence_Tomography_Image
+
+Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning (CVPR2017) : http://openaccess.thecvf.com/content_cvpr_2017/papers/Yun_Action-Decision_Networks_for_CVPR_2017_paper.pdf
