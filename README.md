@@ -1,4 +1,4 @@
-# tf-adnet
+# tf-Plaquenet
 This application is built based on 'Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning(CVPR 2017)'
 
 | GIF      | Description                    |
