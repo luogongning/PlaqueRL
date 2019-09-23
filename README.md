@@ -15,7 +15,7 @@ Building.........
 ### Dataset
 
 ```
-$ python runner.py by_dataset  --vid-path=./data/freeman1/
+$ python runner.py by_dataset  --vid-path=./data/plaque/
 ```
 
 ## References
