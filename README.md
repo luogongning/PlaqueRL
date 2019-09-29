@@ -3,7 +3,7 @@ This application is built based on 'Action-Decision Networks for Visual Tracking
 
 | GIF      | Description                    |
 |:---------|:-------------------------------|
-| ![Plaque](/Plaque.gif) | Plaque Dataset. |
+| ![Plaque](/plaque.gif) | Plaque Dataset. |
 * Blue : Tracking Result
  
 
