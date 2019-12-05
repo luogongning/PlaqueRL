@@ -1,1 +1,1 @@
-datasets
+A series of images with corresponding plaque location label
