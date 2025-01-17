@@ -8,10 +8,7 @@ This application is built based on 'Action-Decision Networks for Visual Tracking
  
 
 ## Implementations
-
-Building.........
 ## Run
-
 ### Dataset
 
 ```
